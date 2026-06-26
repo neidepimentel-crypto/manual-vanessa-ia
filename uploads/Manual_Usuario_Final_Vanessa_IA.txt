@@ -1,0 +1,157 @@
+Manual do Usuário — Vanessa IA (Docnix)
+Assistente Virtual Integrada à Plataforma Docnix
+
+Visão Geral
+A Vanessa IA é uma assistente virtual integrada à plataforma Docnix, desenvolvida para auxiliar usuários na organização de processos, documentos, auditorias, indicadores, planos de ação e conformidade.
+O sistema inicia diretamente na plataforma Docnix e a assistente pode ser acessada através da logo localizada no canto inferior direito da tela.
+A interface foi criada para proporcionar uma experiência simples, moderna e intuitiva, permitindo iniciar conversas rapidamente e navegar entre diferentes assistentes e históricos.
+
+
+
+1. Acessando a Vanessa IA
+Ao abrir o sistema Docnix, a assistente ficará disponível através da logo localizada no canto inferior direito da plataforma.
+Ao clicar na logo da Docnix, a Vanessa IA será aberta automaticamente.
+Na parte superior da interface encontram-se os principais controles do sistema:
+* Seleção de assistente
+* Alternância de tema
+* Ajustes de layout
+* Nova conversa
+* Fechar janela
+A área central apresenta a conversa com a assistente virtual.
+
+
+
+2. Seleção de Assistentes
+Na parte superior esquerda da conversa existe um seletor de assistentes.
+Exemplo exibido:
+Vanessa IA
+Como utilizar
+* Clique no campo do assistente.
+* Selecione o assistente desejado.
+* A conversa será direcionada para o perfil escolhido. Atualmente apenas a Vanessa IA está disponível para uso.
+
+
+
+3. Iniciando uma Conversa
+Na parte inferior da tela encontra-se o campo:
+“Pergunte à Vanessa IA…”
+Como enviar uma mensagem
+* Clique no campo de texto.
+* Digite sua pergunta ou solicitação.
+* Pressione enter  ou clique no envio da mensagem.
+
+
+
+4. Upload de Arquivos
+Ao lado esquerdo do campo de mensagem existe o botão “+”.
+Funcionalidade
+Permite anexar arquivos para análise da IA.
+Como utilizar
+* Clique no botão “+”.
+* Selecione o arquivo desejado.
+* Aguarde o carregamento.
+* Envie a solicitação normalmente.
+A IA poderá utilizar o conteúdo do arquivo como contexto da conversa.
+
+
+
+5. Microfone
+Ao lado direito do campo de mensagem existe o ícone de microfone.
+Funcionalidade
+Permite enviar mensagens por voz.
+Como utilizar
+* Clique no ícone do microfone.
+* Fale sua solicitação.
+* Aguarde a transcrição automática.
+* Envie a mensagem.
+
+
+
+6. Nova Conversa
+Na parte superior direita encontra-se o botão:
+“Nova conversa”.
+Funcionalidade
+Inicia um novo chat vazio, sem utilizar o histórico anterior.
+Como utilizar
+* Clique em “Nova conversa”.
+* Uma nova sessão será criada automaticamente.
+
+
+
+7. Barra Lateral
+O sistema possui uma barra lateral recolhível.
+Funcionalidades da barra lateral
+* Novo chat
+* Pesquisa
+* Lista de assistentes
+* Histórico de conversas
+7.1 Abrir Barra Lateral
+Quando recolhida, a barra lateral pode ser aberta através do botão localizado no canto superior esquerdo.
+Tooltip exibido:
+“Abrir barra lateral”
+
+
+
+
+7.2 Novo Chat
+Na barra lateral existe a opção:
+“Novo chat” para criar rapidamente uma nova conversa.
+
+
+
+7.3 Pesquisa
+A opção “Pesquisar” permite localizar conversas anteriores.
+Como utilizar
+* Clique em “Pesquisar”.
+* Digite palavras-chave.
+* Selecione a conversa desejada.
+
+
+
+
+
+7.4 Assistentes
+A seção “Assistentes” lista todos os assistentes disponíveis. Atualmente, apenas a Vanessa IA está disponível para uso.
+
+
+
+7.5 Histórico de Conversas
+Na parte inferior da barra lateral são exibidas as conversas anteriores organizadas por data. 
+Funcionalidade
+Permite dar continuidade à conversas anteriores.
+Como utilizar
+* Clique em uma conversa do histórico.
+* O chat será reaberto.
+
+
+
+8. Alternância de Tema
+Na parte superior direita existe o botão de tema.
+Funcionalidade
+Alterna entre:
+* tema escuro;
+* tema claro.
+Como utilizar
+1. Clique no ícone de tema.
+2. O sistema alternará automaticamente a aparência.
+
+
+
+9. Opções de Layout
+Ao lado do botão de tema existe o botão:
+Funcionalidade
+Permite ajustar a visualização da interface.
+Os layouts disponíveis são:
+* Tela cheia
+* Fixar à direita
+
+
+
+10. Fechar Janela
+No canto superior direito encontra-se o botão:
+“Fechar”
+Funcionalidade
+Encerra a visualização da assistente.
+
+
+Observação Importante: As conversas neste assistente não são usadas para treinar modelos. O assistente pode cometer erros.
